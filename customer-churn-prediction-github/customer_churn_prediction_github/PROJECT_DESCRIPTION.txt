@@ -1,0 +1,8 @@
+Suggested repository name:
+customer-churn-prediction
+
+Suggested GitHub description:
+End-to-end customer churn prediction and retention analytics using Python, Pandas and Scikit-learn, combining Business Management and Data Science.
+
+Suggested topics:
+python, data-analysis, machine-learning, customer-analytics, churn-prediction, scikit-learn, business-analytics, predictive-analytics
